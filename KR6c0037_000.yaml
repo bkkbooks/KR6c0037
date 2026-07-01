@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6c0037/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金剛般若經疏
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T33/T33n1698.xml
+    old_id: T33n1698
+hash: sha256:43f1b5d12fd3e0a7e997ef94f4bcdc129c26093c3ad8815bb4b4888c43385896

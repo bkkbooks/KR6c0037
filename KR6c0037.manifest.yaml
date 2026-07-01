@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR6c0037/v1
+canonical_location: https://kanripo.org/bkk/KR6c0037/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 金剛般若經疏
+  identifiers:
+    alt_id:
+    - T33n1698
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T33/T33n1698.xml
+    old_id: T33n1698
+  edition:
+    short: bkk
+editions:
+- short: 甲
+  label: 甲
+  source_xml_id: wit1
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6c0037_000.yaml, hash: 'sha256:43f1b5d12fd3e0a7e997ef94f4bcdc129c26093c3ad8815bb4b4888c43385896'}
+  - {seq: 1, filename: KR6c0037_001.yaml, hash: 'sha256:19d9c5c7f59ed3afecfe1ae6ecc8650d64c89539f64eb1e5aaa0d9d2cc8861fc'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6c0037_001.markers.yaml, hash: 'sha256:b02074e7f56bc4110947124125552bb01d59e05433a4eca5b04959cfa5494c5f'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6c0037_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 12149
+  label: 金剛般若經疏
+  type: juan
+  level: 1
+hash: sha256:cfc82b7e5d01d97fb5e31c5758c78f10695b7ba1f37121ac70094e50bf522133
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
